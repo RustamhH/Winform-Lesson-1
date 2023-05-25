@@ -1,0 +1,13 @@
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\bin\Debug\WinForm Lesson 1 Homework.exe.config
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\bin\Debug\WinForm Lesson 1 Homework.exe
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\bin\Debug\WinForm Lesson 1 Homework.pdb
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.AssemblyReference.cache
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.SuggestedBindingRedirects.cache
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form1.resources
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Properties.Resources.resources
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.GenerateResource.cache
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.CoreCompileInputs.cache
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.exe
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.pdb
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form2.resources
+D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form3.resources

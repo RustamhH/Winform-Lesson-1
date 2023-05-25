@@ -64,7 +64,7 @@ namespace WinForm_Lesson_1_Homework
         private void Label_MouseClick(object sender,MouseEventArgs e)
         {
             Label clickedLabel = (Label)sender;
-            string labelInfo = $"Text: {clickedLabel.Text}   Name: {clickedLabel.Name}  Location: {clickedLabel.Location}";
+            string labelInfo = $"Text: {clickedLabel.Text}   Name: {clickedLabel.Name}  Location: {clickedLabel.Location} Size: {clickedLabel.Size}";
             Text = labelInfo;
         }
         private void Label_MouseDoubleClick(object sender, MouseEventArgs e)

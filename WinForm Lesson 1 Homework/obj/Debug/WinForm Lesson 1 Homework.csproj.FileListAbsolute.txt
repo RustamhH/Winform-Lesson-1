@@ -11,3 +11,16 @@ D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\W
 D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.pdb
 D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form2.resources
 D:\WinForm & WPF\WinForm Lesson 1 Homework\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form3.resources
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\bin\Debug\WinForm Lesson 1 Homework.exe.config
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\bin\Debug\WinForm Lesson 1 Homework.exe
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\bin\Debug\WinForm Lesson 1 Homework.pdb
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.AssemblyReference.cache
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form1.resources
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form2.resources
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Form3.resources
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm_Lesson_1_Homework.Properties.Resources.resources
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.GenerateResource.cache
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.csproj.CoreCompileInputs.cache
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.exe
+C:\Users\Hesen_zc39\Desktop\Winform-Lesson-1\WinForm Lesson 1 Homework\obj\Debug\WinForm Lesson 1 Homework.pdb

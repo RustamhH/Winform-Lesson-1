@@ -33,7 +33,7 @@ namespace WinForm_Lesson_1_Homework
             rectangle.Name = $"{count++}";
             if(rectangle.Size.Width<minimumSize.Width || rectangle.Size.Height < minimumSize.Height)
             {
-                MessageBox.Show("Rectangle has to be 10x10 at least");
+                MessageBox.Show("Rectangle has to be 10x10 at least","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
             else
             {

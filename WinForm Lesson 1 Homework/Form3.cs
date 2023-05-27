@@ -20,11 +20,17 @@ namespace WinForm_Lesson_1_Homework
         {
             end.X = e.X;
             end.Y = e.Y;
-            if(start.X>end.X || start.Y>end.Y)
+            if(start.X>end.X && start.Y>end.Y)
             {
                 Point temp=start;
                 start = end;
                 end = temp;
+            }
+            else if(start.Y<end.Y && start.X>end.X)
+            {
+                int temp = start.X;
+                start.X = end.X;
+                end.X = temp;
             }
             Label rectangle = new Label();
             rectangle.Location=new Point(Math.Abs(start.X), Math.Abs(start.Y));
@@ -42,6 +48,7 @@ namespace WinForm_Lesson_1_Homework
                 rectangle.BackColor=Color.OrangeRed;
                 rectangle.MouseClick += Label_MouseClick;
                 rectangle.MouseDoubleClick += Label_MouseDoubleClick;
+                rectangle.BringToFront();
             }
             
         }
